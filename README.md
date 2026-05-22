@@ -34,6 +34,13 @@ PYProject26/
 └── Notes.md
 text
 
+### Recent Updates
+- Added Sliding Window code
+- Practicing Data Structures & Algorithms
+
+### Goals
+- Complete 50+ DSA problems
+- Learn Git & GitHub properly
 
 ## ✨ Features
 
