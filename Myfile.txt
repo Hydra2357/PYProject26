@@ -1,0 +1,2 @@
+Hello, this is a simple file seek and tell demonstration.
+Python file handling is powerful!!
